@@ -98,12 +98,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://54.255.174.111:8081/repository/flipkart-release/</url>
+	      <url>http://13.212.230.58:9663/nanjeshtech/repository/citibank-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
+	      <name>http://13.212.230.58:9663/nanjeshtech/repository/citibank-snapshot/</name>
 	      <url>http://54.255.174.111:8081/repository/flipkart-snapshot/</url>
 	    </snapshotRepository>
 	    
